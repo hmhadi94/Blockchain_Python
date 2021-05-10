@@ -1,0 +1,11 @@
+
+1. Dependencies List:
+- PHP
+- hd-wallet-derive
+- bit and web3.py library
+
+2. Don not forget to clone hd-wallet-derive folder!
+
+3. Follow the installation guide provided in supplement documents in 19.Blockchain with Python folder. Need to install prior running the code.
+
+4. Before making transaction, make sure your account has some funding.
